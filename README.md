@@ -95,5 +95,5 @@ MLFlow :
 <a href="https://github.com/mlflow/mlflow/commit/bd94df33ebb80dbbcdbd37c89b6185bb3bd23f53">
     <img src="https://img.shields.io/badge/Open%20Source-MLflow-blue?style=flat-square&logo=mlflow"/>
   </a>
-
+StatsModel  : <a href='https://github.com/statsmodels/statsmodels/pull/9853'> <img src="https://img.shields.io/badge/Open%20Source-statsmodels-blue?style=flat-square"/></a>
 ###
